@@ -15,7 +15,7 @@ hr{
 }
 /* Header */
 header{
-	background-image: url(Img/bgd.jpeg);
+	background-image: url(bgd.jpeg);
 	background-size: cover;
 	background-position: center;
 	min-height: 350px;
@@ -180,7 +180,7 @@ header{
 	font-size: 12px;
 	cursor: pointer;
 	margin-bottom: 1px;
-	background-image: url(Img/plus.png);
+	background-image: url(plus.png);
 	background-size: 15px 15px;
 	background-position: 95%;
 	background-repeat: no-repeat;
@@ -201,7 +201,7 @@ header{
 	font-size: 12px;
 	cursor: pointer;
 	margin-bottom: 1px;
-	background-image: url(Img/plus.png);
+	background-image: url(plus.png);
 	background-size: 15px 15px;
 	background-position: 95%;
 	background-repeat: no-repeat;
@@ -223,7 +223,7 @@ header{
 	font-size: 12px;
 	cursor: pointer;
 	margin-bottom: 1px;
-	background-image: url(Img/plus.png);
+	background-image: url(plus.png);
 	background-size: 15px 15px;
 	background-position: 95%;
 	background-repeat: no-repeat;
@@ -245,7 +245,7 @@ header{
 	font-size: 12px;
 	cursor: pointer;
 	margin-bottom: 1px;
-	background-image: url(Img/plus.png);
+	background-image: url(plus.png);
 	background-size: 15px 15px;
 	background-position: 95%;
 	background-repeat: no-repeat;
@@ -267,7 +267,7 @@ header{
 	font-size: 12px;
 	cursor: pointer;
 	margin-bottom: 1px;
-	background-image: url(Img/plus.png);
+	background-image: url(plus.png);
 	background-size: 15px 15px;
 	background-position: 95%;
 	background-repeat: no-repeat;
