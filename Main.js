@@ -7,7 +7,7 @@ let details = function(){
 	if(description === false) {
 		Q1.style.background = "grey";
 		Q1.style.width = "300px";
-		Bgd.style.backgroundimage = "(Img/bgd.png)";
+		Bgd.style.backgroundimage = "(bgd.png)";
 
 		let arraylength = P.length;
 		for (var i = 0; i < arraylength; i++){
